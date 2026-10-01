@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "fantasy-football-skills": {
+      "source": {
+        "source": "github",
+        "repo": "derekrbreese/fantasy-football-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "fantasy-league-setup@fantasy-football-skills": true
+  }
+}
